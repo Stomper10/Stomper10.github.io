@@ -1,1 +1,7 @@
-var store = []
+var store = [{
+        "title": "Hello",
+        "excerpt":"This is my new blog. Welcome.  ","categories": [],
+        "tags": ["blog"],
+        "url": "/2022-01-17-01/",
+        "teaser": null
+      }]
