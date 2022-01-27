@@ -73,7 +73,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "7b5231ca00c78c71fccdb033619654ddc8a10c8a"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/site-logo.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Wonyoung Jang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kbojang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Welcome to the playground."
   location         : "Seoul, Korea"
   email            : "jwy4888@snu.ac.kr"
@@ -286,7 +286,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       show_date: true
       date_format: "%Y-%m-%d"
