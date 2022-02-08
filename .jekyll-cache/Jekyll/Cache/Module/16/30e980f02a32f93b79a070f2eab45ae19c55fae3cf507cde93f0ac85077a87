@@ -1,4 +1,4 @@
-I"¿
+I"u
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -25,6 +25,10 @@
           <span class="visually-hidden">Toggle search</span>
           <i class="fas fa-search"></i>
         </button>
+        
+        
+        <input id="toggle_dark_theme" class="mh_toogle" type="checkbox">
+        <label for="toggle_dark_theme" class="material-icons-sharp mh_toggle_btn"></label>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
