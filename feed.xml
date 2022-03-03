@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wonyoung Jang</title>
+    <description>Welcome to the playground.</description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+	<lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0900</lastBuildDate>
+	
+	<item>
+		<title>새 학기</title>
+        
+        
+            <description>&lt;p&gt;새 학기가 시작됐습니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 03 Mar 2022 00:00:00 +0900</pubDate>
+        <link>/2022-03-03-01/</link>
+        <guid isPermaLink="true">/2022-03-03-01/</guid>
+      </item>
+    
+	<item>
+		<title>안녕하세요</title>
+        
+        
+            <description>&lt;p&gt;새 블로그입니다.
+반갑습니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Thu, 10 Feb 2022 00:00:00 +0900</pubDate>
+        <link>/2022-02-10-01/</link>
+        <guid isPermaLink="true">/2022-02-10-01/</guid>
+      </item>
+    
+  </channel>
+</rss>
